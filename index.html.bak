@@ -28,7 +28,7 @@
           <a class="nav-link" href="#">Features</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Pricing</a>
+          <a class="nav-link" href="gen_interface_overview.html">Знакомство с Tekla Structures</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">About</a>
@@ -54,6 +54,23 @@
 <h1>Привет мир!</h1>
 <h2>Привет мир!</h2>
 <h3>Привет мир!</h3>
+
+
+ <!-- Side navigation -->
+<div class="sidenav">
+  <a href="#">About</a>
+  <a href="#">Services</a>
+  <a href="#">Clients</a>
+  <a href="#">Contact</a>
+</div>
+
+<!-- Page content -->
+<div class="main">
+  <h1>Привет мир!</h1>
+<h2>Привет мир!</h2>
+<h3>Привет мир!</h3>
+</div> 
+
 
 
 <figure class="text-end">
