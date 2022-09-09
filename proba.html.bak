@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name='viewport' content='width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no'>
-  <title>Guide - Bootstrap Themes</title>
+  <title>bim-wiki.github.io</title>
   <link rel="profile" href="http://gmpg.org/xfn/11" />
   <link rel="pingback" href="https://themes.getbootstrap.com/xmlrpc.php" />
 
@@ -17,14 +17,14 @@
 
   
 <!-- This site is optimized with the Yoast SEO plugin v12.7.1 - https://yoast.com/wordpress/plugins/seo/ -->
-<meta name="description" content="This guide will help you get started with a Bootstrap Theme, including how to run, customize, update, and integrate your theme!"/>
+<meta name="description" content="bim-wiki.github.io"/>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
-<link rel="canonical" href="https://themes.getbootstrap.com/guide/" />
-<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="bim-wiki.github.io" />
+<meta property="og:locale" content="ru_RU" />
 <meta property="og:type" content="article" />
-<meta property="og:title" content="Guide - Bootstrap Themes" />
-<meta property="og:description" content="This guide will help you get started with a Bootstrap Theme, including how to run, customize, update, and integrate your theme!" />
-<meta property="og:url" content="https://themes.getbootstrap.com/guide/" />
+<meta property="og:title" content="bim-wiki.github.io" />
+<meta property="og:description" content="bim-wiki.github.io" />
+<meta property="og:url" content="bim-wiki.github.io" />
 <meta property="og:site_name" content="Bootstrap Themes" />
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:description" content="This guide will help you get started with a Bootstrap Theme, including how to run, customize, update, and integrate your theme!" />
